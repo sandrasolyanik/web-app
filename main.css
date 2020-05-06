@@ -11,6 +11,7 @@ body {
     padding: 10px;
     background-color: rgba(255, 0, 0, 0.623);
     color: white;
+   
 
 
 }
@@ -18,13 +19,12 @@ h1{
     color:white;
     padding-top: 10px;
     font-size: 75px;
-    padding:0px;
-    margin: 0px;
-    line-height:100px;
     text-shadow: 0 -1px 2px rgba(255, 255, 255, 0.25);
-    width:310px;
-    float: left;
-    font-family: 'Spicy Rice',Helvetica,sans-serif;
+    width:95%;
+    font-family: 'Bangers',Helvetica,sans-serif;
+    margin-right: 50px;
+    margin-left: 35px;
+    padding-left: 90px;
     
 }
 .logo { 
